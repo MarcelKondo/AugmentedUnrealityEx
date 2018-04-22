@@ -1,0 +1,34 @@
+# Filter for files to be included into distributed package
+
+# ignore:
+- Build
+- Intermediate
+- DerivedDataCache
+- Debug
+
+- .git
+
+- .vs
+- *.sln
+- *.VC.db
+- *.opendb
+- ipch
+
+
+- *.pro
+- .kdev4
+- *.kdev4
+- *.workspace
+- *CodeCompletionFolders.txt
+- *CodeLitePreProcessor.txt
+- .codelite
+- .clang
+
+- *.pri
+- *.pdb
+
+- Makefile
+- CMakeLists.txt
+- Binaries/Linux
+- Binaries/Android
+

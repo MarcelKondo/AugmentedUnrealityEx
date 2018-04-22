@@ -1,0 +1,10 @@
+=====================================================================================
+The license for example content (texture, meshes) included in this distribution
+=====================================================================================
+
+Most of the graphical assets included in this distribution is part of Unreal Engine
+or the example projects freely available in the markerplace.
+
+They are here for demonstration and are not part of the plugin.
+
+If you want to reuse these assets, consult the license of Unreal Engine.
