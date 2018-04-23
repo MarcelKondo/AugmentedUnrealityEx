@@ -1,0 +1,25 @@
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "ObjectMacros.h"
+#include "ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef AUGMENTEDUNREALITY_AUROpenCVCalibration_generated_h
+#error "AUROpenCVCalibration.generated.h already included, missing '#pragma once' in AUROpenCVCalibration.h"
+#endif
+#define AUGMENTEDUNREALITY_AUROpenCVCalibration_generated_h
+
+#define AugmentedUnrealityEx_Plugins_AugmentedUnreality_Source_AugmentedUnreality_AUROpenCVCalibration_h_25_GENERATED_BODY \
+	friend AUGMENTEDUNREALITY_API class UScriptStruct* Z_Construct_UScriptStruct_FOpenCVCameraProperties(); \
+	AUGMENTEDUNREALITY_API static class UScriptStruct* StaticStruct();
+
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID AugmentedUnrealityEx_Plugins_AugmentedUnreality_Source_AugmentedUnreality_AUROpenCVCalibration_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
